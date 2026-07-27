@@ -1,0 +1,7 @@
+[
+    {"name": "Alice",  "age": 25, "department": "HR",      "salary": 50000, "address": {"city": "Delhi",   "zip": "110001"}},
+    {"name": "Bob",    "age": 30, "department": "IT",      "salary": 60000, "address": {"city": "Mumbai",  "zip": "400001"}},
+    {"name": "Carol",  "age": 28, "department": "Finance", "salary": 55000, "address": {"city": "Chennai", "zip": "600001"}},
+    {"name": "David",  "age": 35, "department": "IT",      "salary": 70000, "address": {"city": "Kolkata", "zip": "700001"}},
+    {"name": "Emma",   "age": 22, "department": "HR",      "salary": 45000, "address": {"city": "Pune",    "zip": "411001"}}
+]
